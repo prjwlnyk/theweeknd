@@ -1,0 +1,90 @@
+#silhouette {
+    mix-blend-mode: lighten;
+}
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 50px;
+}
+#one {
+    margin-top: -60px;
+}
+#two {
+    margin-top: -60px;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+#purple {
+    z-index: -1;
+    display: block;
+    position:relative;
+}
+.material-icons {
+    position: absolute;
+    margin-left:48%;
+    margin-top: -150px;
+    z-index: 1;
+}
+#about {
+    margin-top: 150px;
+    margin-left: 65px;
+    margin-bottom: auto;
+   color: whitesmoke;
+   padding: 0px;
+   font-size: 36px;
+}
+hr {
+    margin-top:55px;
+    width: 90%;
+}
+.part1 {
+    margin-top: -50px;
+
+}
+.content p{
+    display: block;
+    color: whitesmoke;
+    float: right;
+    width: 55%;
+    margin-right: 500px;
+    margin-top: 20px;
+}
+.content img{
+    float: right;
+    margin-right: 145px;
+    margin-top: -270px;
+}
+#icon1 {
+    margin-top: 390px;
+}
+.disco {
+        margin-top: 650px;
+        margin-left: 65px;
+        font-size: 36px;
+}
+.part2 {
+    margin-top: -50px;
+}
+.col {
+    float: left;
+    width: 25%;
+    padding: 30px;
+}
+.images {
+    padding: 5px;
+    margin-left: 75px;
+}
+
+.images img {
+    width: 250px;
+    height: 250px;
+}
+figcaption {
+    text-align: center;
+    color: white;
+}
+a {
+    text-decoration: none;
+}
+
